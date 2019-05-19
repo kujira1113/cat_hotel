@@ -1,0 +1,12 @@
+html, body, header {
+  width:100%;
+}
+
+body {
+  background-color: #fff;
+}
+
+header {
+  background-color: #f6f87c;
+  height: 65px;
+}
